@@ -1,0 +1,6 @@
+https://0adc00a7045c1527c00a1b9f00f0003d.web-security-academy.net/filter?category=Pets'union select NULL,NULL from dual--
+
+dual need to mention
+
+https://portswigger.net/web-security/sql-injection/cheat-sheet
+
