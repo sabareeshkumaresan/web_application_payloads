@@ -71,6 +71,7 @@ vary
 via
 www-authenticate
 warning
+X-Custom-IP-Authorization
 x-content-type-options
 x-dns-prefetch-control
 x-forwarded-for

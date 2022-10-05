@@ -4,6 +4,7 @@ access
 account
 accounting
 activex
+.git
 admin
 administration
 administrator
